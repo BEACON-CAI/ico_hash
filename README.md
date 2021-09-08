@@ -9,5 +9,7 @@ import codecs
 import sys
 
 使用方法
+```
 python3 ico_hash.py https://www.xxx.com/favicon.ico
+```
 
